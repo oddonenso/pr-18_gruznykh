@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvDescr" type="id">tvDescr</item>
+    <item name="tvPrice" type="id">tvPrice</item>
+    <item name="ivImage" type="id">ivImage</item>
+    <item name="cbBox" type="id">cbBox</item>
+</resources>
